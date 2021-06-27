@@ -1,22 +1,19 @@
 img{
   display:flex;
-  padding-left: 26em;
+  padding-left: 34em;
 }
 #form{
+  line-height: 2.0;
   display: flex;
-  padding-left: 24em;
+  padding-left: 30em;
 }
 .searchbtn{
   display: flex;
   
 }
-#button1 , #button2 {
-  display:inline-block;
-}
-
 #ofrecido{
   display:flex;
-  padding-left: 26em;
+  padding-left: 550px;
 }
 .footer-left{
   display:block;
@@ -32,5 +29,14 @@ img{
   padding-left:0em;
 }
 #pais{
-  padding-left: 25em;
+  line-height: normal;
+  padding-left: 35em;
+}
+#button1, #button2{
+  margin-left: 55px;
+  padding-left: 0;
+  display: inline-block;
+}
+#botonesarriba{
+  text-align:right;
 }
