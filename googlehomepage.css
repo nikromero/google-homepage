@@ -1,0 +1,36 @@
+img{
+  display:flex;
+  padding-left: 26em;
+}
+#form{
+  display: flex;
+  padding-left: 24em;
+}
+.searchbtn{
+  display: flex;
+  
+}
+#button1 , #button2 {
+  display:inline-block;
+}
+
+#ofrecido{
+  display:flex;
+  padding-left: 26em;
+}
+.footer-left{
+  display:block;
+  display:inline-block;
+  margin-left: auto;
+}
+.footer-links{
+  display:inline;
+  padding-left: 25em;
+}
+#terminos{
+  display: inline;
+  padding-left:0em;
+}
+#pais{
+  padding-left: 25em;
+}
